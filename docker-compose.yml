@@ -1,4 +1,3 @@
-version: '3'
 services:
   follow_your_name_images:
     image: nextImages
