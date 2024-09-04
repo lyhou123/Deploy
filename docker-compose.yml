@@ -1,6 +1,6 @@
 services:
   follow_your_name_images:
-    image: nextImages
+    image: nextimages
     container_name: next
     build:
       context: .
